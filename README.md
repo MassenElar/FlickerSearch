@@ -30,3 +30,4 @@ This is a simple iOS app built for a coding challenge. The app allows users to s
 2. SwiftUI
 3. Async/Await
 4. UrlSession
+5. XCTest
